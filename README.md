@@ -1,4 +1,4 @@
-# 🚗 Vehicle Rental System API
+# 🚗 RentWheels (Vehicle Rental System API)
 
 A production-ready backend API for managing vehicle rental operations with secure authentication, role-based access control, and automated business logic.
 
